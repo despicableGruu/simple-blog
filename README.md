@@ -1,7 +1,3 @@
-Shitty Blog Example
-====
+##  Rudimentary Web Log
 
-This is an example of using Diesel and Rocket for a simple CRUD app. It does not
-have any error handling other than `.expect`, is unstyled HTML, and performs no
-authentication (and would be vulnerable to CSRF if it did). You shouldn't use
-this code, but you might find the example interesting.
+This project demonstrates basic data manipulation through a web interface.  Its purpose is illustrative and not intended for production use.  It employs a straightforward structure, prioritizing clarity over robustness.  Features include rudimentary data creation, retrieval, update, and deletion.  Expect minimal styling and limited security measures.  The project's value lies in understanding core concepts and serves as a starting point for more sophisticated applications.  Proceed with caution and adapt as needed for your specific requirements. 
